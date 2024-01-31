@@ -1,0 +1,3 @@
+
+Customer added : ('1234509876', {'no': '1234509876', 'name': 'kajaal', 'balance': '2000', 'Opening Date': '2024-01-31 13-27-26'})
+Customer added : ('2345678901', {'no': '2345678901', 'name': 'ruchi', 'balance': '2000', 'Opening Date': '2024-01-31 13-28-27'})
