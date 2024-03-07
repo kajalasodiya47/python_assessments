@@ -1,0 +1,6 @@
+
+Name : kajal
+Address : ahmedabad
+Number : 7890354632
+Room No : 2
+Bill : 500
